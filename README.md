@@ -1,4 +1,4 @@
-##### Hi there, I'm Maisha Ahmed 👋
+# Hi there, I'm Maisha Ahmed 👋
 ___________________________________________________________________________________________________________________________________________________________________________________
 
 - 🌱 I'm currently learning various AWS tools, Linux, Python, Docker, and Kubernetes.
