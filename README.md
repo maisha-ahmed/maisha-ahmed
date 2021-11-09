@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Maisha Ahmed 👋
 
+- 🌱 I'm currently learning various AWS tools, Linux, Python, Docker, and Kubernetes.
+
+- 📫 How to reach me: maisha.ahmed64@gmail.com
+
+- ⚡ Fun fact: I'm an avid reader, I love murder mysteries and Medieval History. 
 <!--
 **maisha-ahmed/maisha-ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
